@@ -1,0 +1,59 @@
+# Package description
+description:
+    |
+    Wheel is a Python library that implements the wheel packaging standard, as defined in PEP 427. It provides a setuptools extension for building wheels and a command line tool for working with wheel files.
+# Year of creation
+creation: 2012
+# Date of last commit
+last: Mon Feb 5 22:15:32 2024 +0200
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/pypa/wheel
+# Bugtracker URL
+bugtracker: https://github.com/pypa/wheel/issues
+# Installed version
+version: 0.37.1
+# Installed files
+files:
+  - /usr/bin/wheel
+  - /usr/lib/python3.10/site-packages/wheel-0.37.1-py3.10.egg-info/PKG-INFO
+  - /usr/lib/python3.10/site-packages/wheel-0.37.1-py3.10.egg-info/SOURCES.txt
+  - /usr/lib/python3.10/site-packages/wheel-0.37.1-py3.10.egg-info/dependency_links.txt
+  - /usr/lib/python3.10/site-packages/wheel-0.37.1-py3.10.egg-info/entry_points.txt
+  - /usr/lib/python3.10/site-packages/wheel-0.37.1-py3.10.egg-info/installed-files.txt
+  - /usr/lib/python3.10/site-packages/wheel-0.37.1-py3.10.egg-info/not-zip-safe
+  - /usr/lib/python3.10/site-packages/wheel-0.37.1-py3.10.egg-info/requires.txt
+  - /usr/lib/python3.10/site-packages/wheel-0.37.1-py3.10.egg-info/top_level.txt
+  - /usr/lib/python3.10/site-packages/wheel/__init__.py
+  - /usr/lib/python3.10/site-packages/wheel/__main__.py
+  - /usr/lib/python3.10/site-packages/wheel/__pycache__/__init__.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/__pycache__/__main__.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/__pycache__/bdist_wheel.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/__pycache__/macosx_libfile.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/__pycache__/metadata.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/__pycache__/pkginfo.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/__pycache__/util.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/__pycache__/wheelfile.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/bdist_wheel.py
+  - /usr/lib/python3.10/site-packages/wheel/cli/__init__.py
+  - /usr/lib/python3.10/site-packages/wheel/cli/__pycache__/__init__.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/cli/__pycache__/convert.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/cli/__pycache__/pack.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/cli/__pycache__/unpack.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/cli/convert.py
+  - /usr/lib/python3.10/site-packages/wheel/cli/pack.py
+  - /usr/lib/python3.10/site-packages/wheel/cli/unpack.py
+  - /usr/lib/python3.10/site-packages/wheel/macosx_libfile.py
+  - /usr/lib/python3.10/site-packages/wheel/metadata.py
+  - /usr/lib/python3.10/site-packages/wheel/pkginfo.py
+  - /usr/lib/python3.10/site-packages/wheel/util.py
+  - /usr/lib/python3.10/site-packages/wheel/vendored/__init__.py
+  - /usr/lib/python3.10/site-packages/wheel/vendored/__pycache__/__init__.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/vendored/packaging/__init__.py
+  - /usr/lib/python3.10/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/wheel/vendored/packaging/_typing.py
+  - /usr/lib/python3.10/site-packages/wheel/vendored/packaging/tags.py
+  - /usr/lib/python3.10/site-packages/wheel/wheelfile.py

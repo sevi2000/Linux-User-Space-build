@@ -1,0 +1,105 @@
+# Package description
+description: |
+    procps is a set of command line and full-screen utilities that provide information out of the pseudo-filesystem most commonly located at /proc. This filesystem provides a simple interface to the kernel data structures. The programs of procps generally concentrate on the structures that describe the processes running on the system.
+# Year of creation
+creation: 2023
+# Date of last commit
+last: Thu Mar 21 21:06:58 2024 +1100
+# Version control system
+vcs: git
+# Repository URL
+repos: https://gitlab.com/procps-ng/procps
+# Bugtracker URL
+bugtracker: https://gitlab.com/procps-ng/procps/issues
+# Installed version
+version: 3.3.16
+# Installed files
+files:
+  - /usr/bin/free
+  - /usr/bin/pgrep
+  - /usr/bin/pidof
+  - /usr/bin/pidwait
+  - /usr/bin/pkill
+  - /usr/bin/pmap
+  - /usr/bin/ps
+  - /usr/bin/pwdx
+  - /usr/bin/slabtop
+  - /usr/bin/tload
+  - /usr/bin/top
+  - /usr/bin/uptime
+  - /usr/bin/vmstat
+  - /usr/bin/w
+  - /usr/bin/watch
+  - /usr/include/procps/diskstats.h
+  - /usr/include/procps/meminfo.h
+  - /usr/include/procps/misc.h
+  - /usr/include/procps/pids.h
+  - /usr/include/procps/slabinfo.h
+  - /usr/include/procps/stat.h
+  - /usr/include/procps/vmstat.h
+  - /usr/include/procps/xtra-procps-debug.h
+  - /usr/lib/libproc-2.la
+  - /usr/lib/libproc-2.so
+  - /usr/lib/libproc-2.so.0
+  - /usr/lib/libproc-2.so.0.0.0
+  - /usr/lib/pkgconfig/libproc-2.pc
+  - /usr/sbin/sysctl
+  - /usr/share/doc/procps-ng-4.0.0/FAQ
+  - /usr/share/doc/procps-ng-4.0.0/bugs.md
+  - /usr/share/doc/procps-ng-4.0.0/libproc.supp
+  - /usr/share/locale/de/LC_MESSAGES/procps-ng.mo
+  - /usr/share/locale/fr/LC_MESSAGES/procps-ng.mo
+  - /usr/share/locale/pl/LC_MESSAGES/procps-ng.mo
+  - /usr/share/locale/pt_BR/LC_MESSAGES/procps-ng.mo
+  - /usr/share/locale/sv/LC_MESSAGES/procps-ng.mo
+  - /usr/share/locale/uk/LC_MESSAGES/procps-ng.mo
+  - /usr/share/locale/vi/LC_MESSAGES/procps-ng.mo
+  - /usr/share/locale/zh_CN/LC_MESSAGES/procps-ng.mo
+  - /usr/share/man/de/man1/free.1
+  - /usr/share/man/de/man1/pgrep.1
+  - /usr/share/man/de/man1/pmap.1
+  - /usr/share/man/de/man1/uptime.1
+  - /usr/share/man/de/man8/vmstat.8
+  - /usr/share/man/fr/man1/free.1
+  - /usr/share/man/fr/man1/pgrep.1
+  - /usr/share/man/fr/man1/pmap.1
+  - /usr/share/man/fr/man1/uptime.1
+  - /usr/share/man/fr/man8/vmstat.8
+  - /usr/share/man/man1/free.1
+  - /usr/share/man/man1/pgrep.1
+  - /usr/share/man/man1/pidof.1
+  - /usr/share/man/man1/pidwait.1
+  - /usr/share/man/man1/pkill.1
+  - /usr/share/man/man1/pmap.1
+  - /usr/share/man/man1/ps.1
+  - /usr/share/man/man1/pwdx.1
+  - /usr/share/man/man1/slabtop.1
+  - /usr/share/man/man1/tload.1
+  - /usr/share/man/man1/top.1
+  - /usr/share/man/man1/uptime.1
+  - /usr/share/man/man1/w.1
+  - /usr/share/man/man1/watch.1
+  - /usr/share/man/man3/procps.3
+  - /usr/share/man/man3/procps_misc.3
+  - /usr/share/man/man3/procps_pids.3
+  - /usr/share/man/man5/sysctl.conf.5
+  - /usr/share/man/man8/sysctl.8
+  - /usr/share/man/man8/vmstat.8
+  - /usr/share/man/pl/man1/free.1
+  - /usr/share/man/pl/man1/pmap.1
+  - /usr/share/man/pl/man1/uptime.1
+  - /usr/share/man/pl/man8/vmstat.8
+  - /usr/share/man/pt_BR/man1/free.1
+  - /usr/share/man/pt_BR/man1/pgrep.1
+  - /usr/share/man/pt_BR/man1/pmap.1
+  - /usr/share/man/pt_BR/man1/uptime.1
+  - /usr/share/man/pt_BR/man8/vmstat.8
+  - /usr/share/man/sv/man1/free.1
+  - /usr/share/man/sv/man1/pmap.1
+  - /usr/share/man/sv/man1/uptime.1
+  - /usr/share/man/sv/man8/vmstat.8
+  - /usr/share/man/uk/man1/free.1
+  - /usr/share/man/uk/man1/pgrep.1
+  - /usr/share/man/uk/man1/pmap.1
+  - /usr/share/man/uk/man1/uptime.1
+  - /usr/share/man/uk/man8/vmstat.8

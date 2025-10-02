@@ -1,0 +1,107 @@
+# Package description
+description:
+  |
+  shadow-utils is a package that contains utilities for managing accounts and shadow password files. The shadow password format is used to store encrypted passwords and other user information in a separate file, increasing the security of the system. The package includes commands for creating, deleting, and modifying user and group accounts, as well as checking the integrity of password and shadow files.
+# Year of creation
+creation: 1996
+# Date of last commit
+last: Thu Feb 29 19:51:37 2024 -0600
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/shadow-maint/shadow
+# Bugtracker URL
+bugtracker: If you think you have found a bug in shadow-utils, then please report it on the GitHub issue tracker https://github.com/shadow-maint/shadow/issues
+# Installed version
+version: 4.12.2
+# Installed files
+files:
+  - /etc/.pwd.lock
+  - /etc/default/useradd
+  - /etc/group
+  - /etc/group-
+  - /etc/gshadow
+  - /etc/limits
+  - /etc/login.access
+  - /etc/login.defs
+  - /etc/passwd
+  - /etc/passwd-
+  - /etc/shadow
+  - /usr/bin/chage
+  - /usr/bin/chfn
+  - /usr/bin/chsh
+  - /usr/bin/expiry
+  - /usr/bin/faillog
+  - /usr/bin/getsubids
+  - /usr/bin/gpasswd
+  - /usr/bin/lastlog
+  - /usr/bin/login
+  - /usr/bin/newgidmap
+  - /usr/bin/newgrp
+  - /usr/bin/newuidmap
+  - /usr/bin/passwd
+  - /usr/bin/sg
+  - /usr/bin/su
+  - /usr/include/shadow/subid.h
+  - /usr/lib/libsubid.la
+  - /usr/lib/libsubid.so
+  - /usr/lib/libsubid.so.4
+  - /usr/lib/libsubid.so.4.0.0
+  - /usr/sbin/chgpasswd
+  - /usr/sbin/chpasswd
+  - /usr/sbin/groupadd
+  - /usr/sbin/groupdel
+  - /usr/sbin/groupmems
+  - /usr/sbin/groupmod
+  - /usr/sbin/grpck
+  - /usr/sbin/grpconv
+  - /usr/sbin/grpunconv
+  - /usr/sbin/logoutd
+  - /usr/sbin/newusers
+  - /usr/sbin/nologin
+  - /usr/sbin/pwck
+  - /usr/sbin/pwconv
+  - /usr/sbin/pwunconv
+  - /usr/sbin/useradd
+  - /usr/sbin/userdel
+  - /usr/sbin/usermod
+  - /usr/sbin/vigr
+  - /usr/sbin/vipw
+  - /usr/share/locale/bs/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/ca/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/cs/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/da/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/de/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/dz/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/el/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/es/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/eu/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/fi/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/fr/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/gl/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/he/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/hu/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/id/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/it/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/ja/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/kk/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/km/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/ko/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/nb/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/ne/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/nl/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/nn/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/pl/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/pt/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/pt_BR/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/ro/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/ru/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/sk/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/sq/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/sv/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/tl/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/tr/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/uk/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/vi/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/zh_CN/LC_MESSAGES/shadow.mo
+  - /usr/share/locale/zh_TW/LC_MESSAGES/shadow.mo

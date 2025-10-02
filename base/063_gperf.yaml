@@ -1,0 +1,22 @@
+# Package description
+description:
+    |
+    gperf is a perfect hash function generator. For a given list of strings, it produces a hash function and hash table, in form of C or C++ code, for looking up a value depending on the input string. The hash function is perfect, which means that the hash table has no collisions, and the hash table lookup needs a single string comparison only. gperf is highly customizable and supports various options for generating C or C++ code, for emitting switch statements or nested ifs instead of a hash table, and for tuning the algorithm employed by gperf.
+# Year of creation
+creation: 1987
+# Date of last commit
+last: Sat Dec 30 10:08:54 2023 +0100
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.savannah.gnu.org/git/gperf.git
+# Bugtracker URL
+bugtracker: https://savannah.gnu.org/bugs/?group=gperf
+# Installed version
+version: 3.1
+# Installed files
+files:
+  - /usr/bin/gperf
+  - /usr/share/doc/gperf-3.1/gperf.html
+  - /usr/share/info/gperf.info
+  - /usr/share/man/man1/gperf.1

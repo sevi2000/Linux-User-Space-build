@@ -1,0 +1,21 @@
+# Package description
+description:
+  |
+    Initial file tree.
+# Year of creation
+creation: 2024
+# Date of last commit
+last: 2024-01-15
+# Version control system
+vcs: git
+# Repository URL
+repos: git:https://gaufre.informatique.univ-paris-diderot.fr/dervishi/unix-2023
+# Bugtracker URL
+bugtracker: 
+# Installed version
+version: 1.0
+# Installed files
+files:
+  - /bin
+  - /lib
+  - /sbin

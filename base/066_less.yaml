@@ -1,0 +1,24 @@
+# Package description
+description:
+  |
+  less is a program that allows you to view large text files without using a lot of memory. less does not have to read the entire input file before starting, so it starts faster than most text editors. less also has many features for searching, scrolling, and navigating through the text.
+# Year of creation
+creation: 1983
+# Date of last commit
+last: Thu Feb 29 14:02:24 2024 -0800
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/gwsw/less
+# Bugtracker URL
+bugtracker: https://github.com/gwsw/less/issues
+# Installed version
+version: 590
+# Installed files
+files:
+  - /usr/bin/less
+  - /usr/bin/lessecho
+  - /usr/bin/lesskey
+  - /usr/share/man/man1/less.1
+  - /usr/share/man/man1/lessecho.1
+  - /usr/share/man/man1/lesskey.1

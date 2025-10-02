@@ -1,0 +1,25 @@
+# Package description
+description: |
+  elfutils is a collection of utilities and libraries to read, create, and modify ELF binary files, find and handle DWARF debug data, symbols, thread state, and stack traces for processes and core files on GNU/Linux.
+# Year of creation
+creation: 1999
+# Date of last commit
+last: Fri Mar 1 12:31:49 2024 -0500
+# Version control system
+vcs: git
+# Repository URL
+repos: git://sourceware.org/git/elfutils.git
+# Bugtracker URL
+bugtracker: https://sourceware.org/bugzilla/
+# Installed version
+version: 2
+# Installed files
+files:
+  - /usr/include/elfutils/elf-knowledge.h
+  - /usr/include/gelf.h
+  - /usr/include/libelf.h
+  - /usr/include/nlist.h
+  - /usr/lib/libelf-0.187.so
+  - /usr/lib/libelf.so
+  - /usr/lib/libelf.so.1
+  - /usr/lib/pkgconfig/libelf.pc

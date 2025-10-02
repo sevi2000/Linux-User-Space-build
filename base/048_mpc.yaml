@@ -1,0 +1,25 @@
+# Package description
+description:
+    |
+    MPC is a C library for multiple-precision complex arithmetic with correct rounding, based on the GMP and MPFR libraries. It implements a multiprecision equivalent of the C99 standard for complex numbers, providing well-defined semantics for every operation.
+# Year of creation
+creation: 2002
+# Date of last commit
+last: Fri Aug 18 13:44:38 2023 +0200
+# Version control system
+vcs: git
+# Repository URL
+repos: https://gitlab.inria.fr/mpc/mpc
+# Bugtracker URL
+bugtracker: mpc-discuss@lists.gforge.inria.fr
+# Installed version
+version: 1.2.1
+# Installed files
+files:
+  - /usr/include/mpc.h
+  - /usr/lib/libmpc.la
+  - /usr/lib/libmpc.so
+  - /usr/lib/libmpc.so.3
+  - /usr/lib/libmpc.so.3.2.1
+  - /usr/share/info/dir
+  - /usr/share/info/mpc.info

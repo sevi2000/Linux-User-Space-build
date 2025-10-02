@@ -1,0 +1,36 @@
+# Package description
+description:
+    |
+    Zstd is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios. It is open source, stable, and published as IETF RFC 8878, and supports various programming languages and platforms.
+# Year of creation
+creation: 2015
+# Date of last commit
+last: Tue Feb 27 13:28:32 2024 -0800
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/facebook/zstd.git
+# Bugtracker URL
+bugtracker: https://github.com/facebook/zstd/issues
+# Installed version
+version: 1.5.2
+# Installed files
+files:
+  - /usr/bin/unzstd
+  - /usr/bin/zstd
+  - /usr/bin/zstdcat
+  - /usr/bin/zstdgrep
+  - /usr/bin/zstdless
+  - /usr/bin/zstdmt
+  - /usr/include/zdict.h
+  - /usr/include/zstd.h
+  - /usr/include/zstd_errors.h
+  - /usr/lib/libzstd.so
+  - /usr/lib/libzstd.so.1
+  - /usr/lib/libzstd.so.1.5.2
+  - /usr/lib/pkgconfig/libzstd.pc
+  - /usr/share/man/man1/unzstd.1
+  - /usr/share/man/man1/zstd.1
+  - /usr/share/man/man1/zstdcat.1
+  - /usr/share/man/man1/zstdgrep.1
+  - /usr/share/man/man1/zstdless.1

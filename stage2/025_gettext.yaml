@@ -1,0 +1,21 @@
+# Package description
+description:
+    |
+    Gettext is a package of GNU software providing a framework for translating the textual output of programs into multiple languages. It supports message catalogs, runtime library, and stand-alone programs for translating and formatting messages.
+# Year of creation
+creation: 1990
+# Date of last commit
+last: Sat Mar 2 00:18:31 2024 +0100
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.savannah.gnu.org/git/gettext.git
+# Bugtracker URL
+bugtracker: https://savannah.gnu.org/bugs/?group=gettext
+# Installed version
+version: 0.21
+# Installed files
+files:
+  - /usr/bin/msgfmt
+  - /usr/bin/msgmerge
+  - /usr/bin/xgettext

@@ -1,0 +1,35 @@
+# Package description
+description:
+    |
+    MarkupSafe is a library for Python that implements a text object that escapes characters so it is safe to use in HTML and XML. Characters that have special meanings are replaced so that they display as the actual characters. This mitigates injection attacks, meaning untrusted user input can safely be displayed on a page.
+# Year of creation
+creation: 2006
+# Date of last commit
+last: Tue Mar 12 12:57:47 2024 -0700
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/pallets/markupsafe
+# Bugtracker URL
+bugtracker: https://github.com/pallets/markupsafe/issues
+# Installed version
+version: 2.1.5
+# Installed files
+files:
+  - /root/.cache/pip/wheels/d4/22/b1/f13076fd69130257450ee73c19dc41ed1662b7fbf80891ef7f/MarkupSafe-2.1.1-cp310-cp310-linux_armv7l.whl
+  - /root/.cache/pip/wheels/d4/22/b1/f13076fd69130257450ee73c19dc41ed1662b7fbf80891ef7f/origin.json
+  - /usr/lib/python3.10/site-packages/MarkupSafe-2.1.1.dist-info/INSTALLER
+  - /usr/lib/python3.10/site-packages/MarkupSafe-2.1.1.dist-info/LICENSE.rst
+  - /usr/lib/python3.10/site-packages/MarkupSafe-2.1.1.dist-info/METADATA
+  - /usr/lib/python3.10/site-packages/MarkupSafe-2.1.1.dist-info/RECORD
+  - /usr/lib/python3.10/site-packages/MarkupSafe-2.1.1.dist-info/REQUESTED
+  - /usr/lib/python3.10/site-packages/MarkupSafe-2.1.1.dist-info/WHEEL
+  - /usr/lib/python3.10/site-packages/MarkupSafe-2.1.1.dist-info/top_level.txt
+  - /usr/lib/python3.10/site-packages/markupsafe/__init__.py
+  - /usr/lib/python3.10/site-packages/markupsafe/__pycache__/__init__.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/markupsafe/__pycache__/_native.cpython-310.pyc
+  - /usr/lib/python3.10/site-packages/markupsafe/_native.py
+  - /usr/lib/python3.10/site-packages/markupsafe/_speedups.c
+  - /usr/lib/python3.10/site-packages/markupsafe/_speedups.cpython-310-arm-linux-gnueabi.so
+  - /usr/lib/python3.10/site-packages/markupsafe/_speedups.pyi
+  - /usr/lib/python3.10/site-packages/markupsafe/py.typed

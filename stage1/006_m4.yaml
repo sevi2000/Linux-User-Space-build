@@ -1,0 +1,19 @@
+# Package description
+description:
+  |
+    GNU M4 is an implementation of the traditional Unix macro processor. It is mostly SVR4 compatible although it has some extensions (for example, handling more than 9 positional parameters to macros). GNU M4 also has built-in functions for including files, running shell commands, doing arithmetic, etc.
+# Year of creation
+creation: 1985
+# Date of last commit
+last: Fri May 7 15:09:27 2021 -0500
+# Version control system
+vcs: git
+# Repository URL
+repos: http://git.savannah.gnu.org/r/m4.git
+# Bugtracker URL
+bugtracker: If you think you have found a bug in GNU M4, then please send as complete a report as possible to <bug-m4@gnu.org>.
+# Installed version
+version: 1.4.19
+# Installed files
+files:
+  - /usr/bin/m4

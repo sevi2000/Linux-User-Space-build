@@ -1,0 +1,54 @@
+# Package description
+description: |
+    libcheck is a unit testing framework for C. It provides a simple interface for defining unit tests, run in a separate address space, which allows for both normal test execution and checking for memory leaks and buffer overflows.
+# Year of creation
+creation: 2003
+# Date of last commit
+last: Thu Oct 21 23:44:38 2021 -0700
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/libcheck/check
+# Bugtracker URL
+bugtracker: https://github.com/libcheck/check/issues
+# Installed version
+version: 0.15.2
+# Installed files
+files:
+  - /usr/bin/checkmk
+  - /usr/include/check.h
+  - /usr/include/check_stdint.h
+  - /usr/lib/libcheck.la
+  - /usr/lib/libcheck.so
+  - /usr/lib/libcheck.so.0
+  - /usr/lib/libcheck.so.0.0.0
+  - /usr/lib/pkgconfig/check.pc
+  - /usr/share/aclocal/check.m4
+  - /usr/share/doc/check-0.15.2/COPYING.LESSER
+  - /usr/share/doc/check-0.15.2/ChangeLog
+  - /usr/share/doc/check-0.15.2/NEWS
+  - /usr/share/doc/check-0.15.2/README
+  - /usr/share/doc/check-0.15.2/example/Makefile.am
+  - /usr/share/doc/check-0.15.2/example/README
+  - /usr/share/doc/check-0.15.2/example/configure.ac
+  - /usr/share/doc/check-0.15.2/example/src/Makefile.am
+  - /usr/share/doc/check-0.15.2/example/src/main.c
+  - /usr/share/doc/check-0.15.2/example/src/money.1.c
+  - /usr/share/doc/check-0.15.2/example/src/money.1.h
+  - /usr/share/doc/check-0.15.2/example/src/money.2.h
+  - /usr/share/doc/check-0.15.2/example/src/money.3.c
+  - /usr/share/doc/check-0.15.2/example/src/money.4.c
+  - /usr/share/doc/check-0.15.2/example/src/money.5.c
+  - /usr/share/doc/check-0.15.2/example/src/money.6.c
+  - /usr/share/doc/check-0.15.2/example/src/money.c
+  - /usr/share/doc/check-0.15.2/example/src/money.h
+  - /usr/share/doc/check-0.15.2/example/tests/Makefile.am
+  - /usr/share/doc/check-0.15.2/example/tests/check_money.1.c
+  - /usr/share/doc/check-0.15.2/example/tests/check_money.2.c
+  - /usr/share/doc/check-0.15.2/example/tests/check_money.3.c
+  - /usr/share/doc/check-0.15.2/example/tests/check_money.6.c
+  - /usr/share/doc/check-0.15.2/example/tests/check_money.7.c
+  - /usr/share/doc/check-0.15.2/example/tests/check_money.c
+  - /usr/share/info/check.info
+  - /usr/share/info/dir
+  - /usr/share/man/man1/checkmk.1

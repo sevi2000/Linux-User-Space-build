@@ -1,0 +1,31 @@
+# Package description
+description:
+    |
+    Libffi is a foreign function interface library. It provides a C programming language interface for calling natively compiled functions given information about the target function at run time instead of compile time. It also implements the opposite functionality: libffi can produce a pointer to a function that can accept and decode any combination of arguments defined at run time.
+# Year of creation
+creation: 1996
+# Date of last commit
+last: Sun Feb 18 09:22:51 2024 -0500
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/libffi/libffi
+# Bugtracker URL
+bugtracker: https://github.com/libffi/libffi/issues
+# Installed version
+version: 3.4.2
+# Installed files
+files:
+  - /usr/include/ffi.h
+  - /usr/include/ffitarget.h
+  - /usr/lib/libffi.la
+  - /usr/lib/libffi.so
+  - /usr/lib/libffi.so.8
+  - /usr/lib/libffi.so.8.1.0
+  - /usr/lib/pkgconfig/libffi.pc
+  - /usr/share/info/dir
+  - /usr/share/info/libffi.info
+  - /usr/share/man/man3/ffi.3
+  - /usr/share/man/man3/ffi_call.3
+  - /usr/share/man/man3/ffi_prep_cif.3
+  - /usr/share/man/man3/ffi_prep_cif_var.3

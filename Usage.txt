@@ -1,0 +1,28 @@
+$ pwd
+/a/b/c/unix-2023
+$ cd stage1
+$ ../do-everything.sh # Do all steps up to 23 included
+$ ../tar-inc.sh extract upc 18-018_sed # Restore backup 18
+$ ../do-everything.sh 018_sed.sh 020_xz.sh # Do steps 18 to 20 included
+$ ../do-everything.sh 021_binutils.sh # Complete stage 1 again
+# Here insert board SD card in PC
+$ ../copy-to-sd-card.sh all
+
+# Now put SD card in board (board prompt '#' is replaced with '>' to avoid ambiguity)
+$ sudo screen -L /dev/ttyUSB0 115200
+> /enter-chroot.sh
+(upc chroot) > cd /unix-2023/stage2
+(upc chroot) > ../do-everything.sh
+(upc chroot) > cd ../base
+(upc chroot) > ../do-everything.sh
+# Next our teacher gives us scripts 082 and beyond so put SD card in PC
+$ ../copy-to-sd-card.sh update
+(upc chroot) > ../do-everything.sh 082_xxx.sh # Replace xxx
+
+# Restore on board:
+(upc chroot) > exit
+> cd /mnt/unix-2023/base
+> ../tar-inc.sh extract /mnt xx-072_automake # Replace xx
+> /enter-chroot.sh
+(upc chroot) > cd /unix-2023/base
+(upc chroot) > ../do-everything.sh 073_openssl.sh

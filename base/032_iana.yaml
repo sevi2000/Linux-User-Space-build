@@ -1,0 +1,20 @@
+# Package description
+description:
+    |
+    IANA is a standards organization that oversees global IP address allocation, autonomous system number allocation, root zone management in the Domain Name System (DNS), media types, and other Internet Protocol–related symbols and Internet numbers. IANA is a function of ICANN, a nonprofit private American corporation established in 1998 under a United States Department of Commerce contract.
+# Year of creation
+creation: 1988
+# Date of last commit
+last: 2024-02-22 per https://github.com/Mic92/iana-etc
+# Version control system
+vcs: none
+# Repository URL
+repos: https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xml
+# Bugtracker URL
+bugtracker: https://www.iana.org/protocols/apply
+# Installed version
+version: 20220812
+# Installed files
+files:
+  - /etc/protocols
+  - /etc/services

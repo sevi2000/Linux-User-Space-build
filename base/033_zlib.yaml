@@ -1,0 +1,27 @@
+# Package description
+description:
+    |
+    zlib is a free, general-purpose, legally unencumbered lossless data-compression library for use on virtually any computer hardware and operating system. The zlib data format is portable across platforms. zlib uses the DEFLATE compression algorithm, which is also used in gzip and Zip.
+# Year of creation
+creation: 1995
+# Date of last commit
+last: Sun Feb 11 15:42:08 2024 -0800
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/madler/zlib
+# Bugtracker URL
+bugtracker: https://github.com/madler/zlib/issues
+# Installed version
+version: 1.2.13
+# Installed files
+files:
+  - /etc/ld.so.cache
+  - /usr/include/zconf.h
+  - /usr/include/zlib.h
+  - /usr/lib/libz.so
+  - /usr/lib/libz.so.1
+  - /usr/lib/libz.so.1.2.13
+  - /usr/lib/pkgconfig/zlib.pc
+  - /usr/share/man/man3/zlib.3
+  - /var/cache/ldconfig/aux-cache

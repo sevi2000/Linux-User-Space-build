@@ -1,0 +1,13 @@
+Make sure to never launch multiple screen commands.
+
+sudo screen -L /dev/ttyUSB0 115200
+
+-L will log all output to ./screenlog.0 (appended to in case of relaunch of the screen command)
+
+To resize the screen to terminal emulator size, just launch the 'resize' command inside screen.
+
+Exit screen: Ctrl+A -> \ (no Ctrl) -> y
+
+To scroll up or down: Ctrl + [ or Escape enters copy mode, which can be exited with almost any key. In this mode, you can scroll using the mouse wheel, the arrow keys, pgup and pgdn, ctrl+u ctrl+d, etc.
+
+It may be possible to install Terminator to scroll with mouse wheel without entering copy mode.

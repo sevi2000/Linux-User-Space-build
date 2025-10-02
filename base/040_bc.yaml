@@ -1,0 +1,35 @@
+# Package description
+description:
+    |
+    bc is a command-line calculator that supports arbitrary precision arithmetic and various mathematical functions. It can also execute code written in the bc programming language, which is similar to C but with some differences. The package also includes dc, a reverse-polish notation calculator that can handle unlimited precision numbers.
+# Year of creation
+creation: 1975
+# Date of last commit
+last: Sat Jan 27 13:53:15 2024 -0700
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.yzena.com/gavin/bc
+# Bugtracker URL
+bugtracker: If you need to report a bug with `bc`, email gavin at this site minus
+  the `git.` part for an account, and I will create one for you. Or you can report
+  an issue at [GitHub][29].
+# Installed version
+version: 6.0.1
+# Installed files
+files:
+  - /usr/bin/bc
+  - /usr/bin/dc
+  - /usr/share/locale/de_DE.UTF-8/bc
+  - /usr/share/locale/de_DE.utf8/bc
+  - /usr/share/locale/en_GB.utf8/bc
+  - /usr/share/locale/en_US.utf8/bc
+  - /usr/share/locale/en_US/bc
+  - /usr/share/locale/fr_FR.UTF-8/bc
+  - /usr/share/locale/fr_FR.utf8/bc
+  - /usr/share/locale/ja_JP.UTF-8/bc
+  - /usr/share/locale/ja_JP.utf8/bc
+  - /usr/share/locale/ru_RU.UTF-8/bc
+  - /usr/share/locale/ru_RU.utf8/bc
+  - /usr/share/man/man1/bc.1
+  - /usr/share/man/man1/dc.1

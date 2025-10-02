@@ -1,0 +1,45 @@
+# Package description
+description:
+    |
+    bzip2 is a free and open-source file compression program that uses the Burrows–Wheeler algorithm. It only compresses single files and is not a file archiver. It relies on separate external utilities for tasks such as handling multiple files, encryption, and archive-splitting.
+# Year of creation
+creation: 1996
+# Date of last commit
+last: Wed May 31 17:09:48 2023 -0700
+# Version control system
+vcs: git
+# Repository URL
+repos: https://gitlab.com/bzip2/bzip2
+# Bugtracker URL
+bugtracker: https://gitlab.com/bzip2/bzip2/-/issues
+# Installed version
+version: 1.0.8
+# Installed files
+files:
+  - /usr/bin/bunzip2
+  - /usr/bin/bzcat
+  - /usr/bin/bzcmp
+  - /usr/bin/bzdiff
+  - /usr/bin/bzegrep
+  - /usr/bin/bzfgrep
+  - /usr/bin/bzgrep
+  - /usr/bin/bzip2
+  - /usr/bin/bzip2recover
+  - /usr/bin/bzless
+  - /usr/bin/bzmore
+  - /usr/include/bzlib.h
+  - /usr/lib/libbz2.so
+  - /usr/lib/libbz2.so.1.0
+  - /usr/lib/libbz2.so.1.0.8
+  - /usr/share/doc/bzip2-1.0.8/bzip2.txt
+  - /usr/share/doc/bzip2-1.0.8/manual.html
+  - /usr/share/doc/bzip2-1.0.8/manual.pdf
+  - /usr/share/doc/bzip2-1.0.8/manual.ps
+  - /usr/share/man/man1/bzcmp.1
+  - /usr/share/man/man1/bzdiff.1
+  - /usr/share/man/man1/bzegrep.1
+  - /usr/share/man/man1/bzfgrep.1
+  - /usr/share/man/man1/bzgrep.1
+  - /usr/share/man/man1/bzip2.1
+  - /usr/share/man/man1/bzless.1
+  - /usr/share/man/man1/bzmore.1

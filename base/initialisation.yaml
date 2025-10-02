@@ -1,0 +1,13 @@
+files:
+  - /etc/adjtime
+  - /etc/hostname
+  - /etc/hosts
+  - /etc/inputrc
+  - /etc/locale.conf
+  - /etc/lsb-release
+  - /etc/os-release
+  - /etc/shadow
+  - /etc/shadow-
+  - /etc/shells
+  - /etc/vconsole.conf
+  - /root/.viminfo

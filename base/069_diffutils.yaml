@@ -1,0 +1,62 @@
+# Package description
+description:
+    |
+    GNU Diffutils is a package of several programs related to finding differences between files. Users often need to ask how two files differ, whether one file is a newer version of the other, or if two identical copies were changed by different people. The diff command shows differences between two files line by line in several formats, selectable by command line options. This set of differences is often called a "diff" or "patch". For identical files, diff produces no output; for binary files, it reports only that they are different.
+# Year of creation
+creation: 1988
+# Date of last commit
+last: Sun Feb 18 00:27:56 2024 -0800
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.savannah.gnu.org/git/diffutils.git
+# Bugtracker URL
+bugtracker: https://debbugs.gnu.org/db/pa/diffutils.html
+# Installed version
+version: 3.10
+# Installed files
+files:
+  - /usr/bin/cmp
+  - /usr/bin/diff
+  - /usr/bin/diff3
+  - /usr/bin/sdiff
+  - /usr/share/info/diffutils.info
+  - /usr/share/info/dir
+  - /usr/share/locale/bg/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ca/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/cs/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/da/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/de/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/el/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/eo/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/es/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/fi/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/fr/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ga/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/gl/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/he/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/hr/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/hu/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/id/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/it/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ja/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/lv/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ms/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/nb/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/nl/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/pl/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/pt/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/pt_BR/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ro/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ru/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/sr/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/sv/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/tr/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/uk/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/vi/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/zh_CN/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/zh_TW/LC_MESSAGES/diffutils.mo
+  - /usr/share/man/man1/cmp.1
+  - /usr/share/man/man1/diff.1
+  - /usr/share/man/man1/diff3.1
+  - /usr/share/man/man1/sdiff.1

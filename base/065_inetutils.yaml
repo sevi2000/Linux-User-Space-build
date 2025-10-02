@@ -1,0 +1,40 @@
+# Package description
+description:
+    |
+    Inetutils is a collection of common network utilities and servers including ftp, ftpd, rcp, rexec, rlogin, rlogind, rsh, rshd, syslog, syslogd, talk, talkd, telnet, telnetd, tftp, tftpd, and uucpd. The individual utilities were originally derived from the 4.4BSDLite2 distribution and have been improved and integrated with other GNU software.
+# Year of creation
+creation: 1996
+# Date of last commit
+last: Mon Jan 1 11:28:59 2024 +0100
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.savannah.gnu.org/git/inetutils.git
+# Bugtracker URL
+bugtracker: https://savannah.gnu.org/bugs/?group=inetutils
+# Installed version
+version: 2.3
+# Installed files
+files:
+  - /usr/bin/dnsdomainname
+  - /usr/bin/ftp
+  - /usr/bin/hostname
+  - /usr/bin/ping
+  - /usr/bin/ping6
+  - /usr/bin/talk
+  - /usr/bin/telnet
+  - /usr/bin/tftp
+  - /usr/bin/traceroute
+  - /usr/sbin/ifconfig
+  - /usr/share/info/dir
+  - /usr/share/info/inetutils.info
+  - /usr/share/man/man1/dnsdomainname.1
+  - /usr/share/man/man1/ftp.1
+  - /usr/share/man/man1/hostname.1
+  - /usr/share/man/man1/ifconfig.1
+  - /usr/share/man/man1/ping.1
+  - /usr/share/man/man1/ping6.1
+  - /usr/share/man/man1/talk.1
+  - /usr/share/man/man1/telnet.1
+  - /usr/share/man/man1/tftp.1
+  - /usr/share/man/man1/traceroute.1

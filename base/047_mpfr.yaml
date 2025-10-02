@@ -1,0 +1,41 @@
+# Package description
+description:
+    |
+    MPFR is a portable C library for arbitrary-precision floating-point computation with correct rounding, based on the GNU MP library. It aims to provide a class of floating-point numbers with precise semantics, following the ANSI/IEEE-754 standard for double-precision floating-point arithmetic.
+# Year of creation
+creation: 1999
+# Date of last commit
+last: 22 August 2023
+# Version control system
+vcs: svn
+# Repository URL
+repos: https://scm.gforge.inria.fr/anonscm/svn/mpfr/trunk
+# Bugtracker URL
+bugtracker: https://gforge.inria.fr/tracker/?group_id=136
+# Installed version
+version: 4.1.0
+# Installed files
+files:
+  - /usr/include/mpf2mpfr.h
+  - /usr/include/mpfr.h
+  - /usr/lib/libmpfr.la
+  - /usr/lib/libmpfr.so
+  - /usr/lib/libmpfr.so.6
+  - /usr/lib/libmpfr.so.6.1.0
+  - /usr/lib/pkgconfig/mpfr.pc
+  - /usr/share/doc/mpfr-4.1.0/AUTHORS
+  - /usr/share/doc/mpfr-4.1.0/BUGS
+  - /usr/share/doc/mpfr-4.1.0/COPYING
+  - /usr/share/doc/mpfr-4.1.0/COPYING.LESSER
+  - /usr/share/doc/mpfr-4.1.0/FAQ.html
+  - /usr/share/doc/mpfr-4.1.0/NEWS
+  - /usr/share/doc/mpfr-4.1.0/TODO
+  - /usr/share/doc/mpfr-4.1.0/examples/ReadMe
+  - /usr/share/doc/mpfr-4.1.0/examples/can_round.c
+  - /usr/share/doc/mpfr-4.1.0/examples/divworst.c
+  - /usr/share/doc/mpfr-4.1.0/examples/rndo-add.c
+  - /usr/share/doc/mpfr-4.1.0/examples/sample.c
+  - /usr/share/doc/mpfr-4.1.0/examples/threads.c
+  - /usr/share/doc/mpfr-4.1.0/examples/version.c
+  - /usr/share/info/dir
+  - /usr/share/info/mpfr.info

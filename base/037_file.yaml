@@ -1,0 +1,29 @@
+# Package description
+description:
+  |
+  The file command is "a file type guesser", that is, a command-line tool that tells you in words what kind of data a file contains.
+# Year of creation
+creation: 1984
+# Date of last commit
+last: Sun, 21 Jan 2024 19:59:40 +0000
+# Version control system
+vcs: CVS
+# Repository URL
+repos: ftp://ftp.astron.com/pub/file/
+# Bugtracker URL
+bugtracker: Please report bugs to the bug tracker (https://bugs.astron.com/) or the mailing list (https://mailman.astron.com/mailman/listinfo/file).
+# Installed version
+version: 5.42
+# Installed files
+files:
+  - /usr/bin/file
+  - /usr/include/magic.h
+  - /usr/lib/libmagic.la
+  - /usr/lib/libmagic.so
+  - /usr/lib/libmagic.so.1
+  - /usr/lib/libmagic.so.1.0.0
+  - /usr/lib/pkgconfig/libmagic.pc
+  - /usr/share/man/man1/file.1
+  - /usr/share/man/man3/libmagic.3
+  - /usr/share/man/man4/magic.4
+  - /usr/share/misc/magic.mgc

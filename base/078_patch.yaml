@@ -1,0 +1,20 @@
+# Package description
+description:
+  |
+  GNU Patch takes a patch file containing a difference listing produced by the diff program and applies those differences to one or more original files, producing patched versions.
+# Year of creation
+creation: 1985
+# Date of last commit
+last: Wed Apr 6 10:48:35 2022 +0200
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.savannah.gnu.org/git/patch.git
+# Bugtracker URL
+bugtracker: https://savannah.gnu.org/bugs/?group=patch
+# Installed version
+version: 2.7.6
+# Installed files
+files:
+  - /usr/bin/patch
+  - /usr/share/man/man1/patch.1

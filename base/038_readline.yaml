@@ -1,0 +1,42 @@
+# Package description
+description:
+    |
+    Readline is a software library that provides in-line editing and history capabilities for interactive programs with a command-line interface, such as Bash. It is part of the GNU Project and is maintained by Chet Ramey.
+# Year of creation
+creation: 1989
+# Date of last commit
+last: Sun Jan 14 15:22:07 2024 -0500
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.savannah.gnu.org/git/readline.git
+# Bugtracker URL
+bugtracker: https://savannah.gnu.org/bugs/?group=readline
+# Installed version
+version: 8.1.2
+# Installed files
+files:
+  - /usr/include/readline/chardefs.h
+  - /usr/include/readline/history.h
+  - /usr/include/readline/keymaps.h
+  - /usr/include/readline/readline.h
+  - /usr/include/readline/rlconf.h
+  - /usr/include/readline/rlstdc.h
+  - /usr/include/readline/rltypedefs.h
+  - /usr/include/readline/tilde.h
+  - /usr/lib/libhistory.so
+  - /usr/lib/libhistory.so.8
+  - /usr/lib/libhistory.so.8.1
+  - /usr/lib/libreadline.so
+  - /usr/lib/libreadline.so.8
+  - /usr/lib/libreadline.so.8.1
+  - /usr/lib/pkgconfig/readline.pc
+  - /usr/share/doc/readline-8.1.2/CHANGES
+  - /usr/share/doc/readline-8.1.2/INSTALL
+  - /usr/share/doc/readline-8.1.2/README
+  - /usr/share/info/dir
+  - /usr/share/info/history.info
+  - /usr/share/info/readline.info
+  - /usr/share/info/rluserman.info
+  - /usr/share/man/man3/history.3
+  - /usr/share/man/man3/readline.3

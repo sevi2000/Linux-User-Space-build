@@ -1,0 +1,30 @@
+# Package description
+description:
+    |
+    Intltool is a set of tools to centralize translation of many different file formats using GNU gettext-compatible PO files. The intltool collection can be used to do these things: Extract translatable strings from various source files (.xml.in, glade, .desktop.in, .server.in, .oaf.in). Collect the extracted strings together with messages from traditional source files (.c, .h) in po/$ (PACKAGE).pot. Merge back the translations from .po files into .xml, .desktop and oaf files. This merge step will happen at build resp. installation time.
+# Year of creation
+creation: 2000
+# Date of last commit
+last: 2024-03-02
+# Version control system
+vcs: bzr
+# Repository URL
+repos: https://launchpad.net/intltool
+# Bugtracker URL
+bugtracker: https://bugs.launchpad.net/intltool
+# Installed version
+version: 0.51.0
+# Installed files
+files:
+  - /usr/bin/intltool-extract
+  - /usr/bin/intltool-merge
+  - /usr/bin/intltool-prepare
+  - /usr/bin/intltool-update
+  - /usr/bin/intltoolize
+  - /usr/share/aclocal/intltool.m4
+  - /usr/share/intltool/Makefile.in.in
+  - /usr/share/man/man8/intltool-extract.8
+  - /usr/share/man/man8/intltool-merge.8
+  - /usr/share/man/man8/intltool-prepare.8
+  - /usr/share/man/man8/intltool-update.8
+  - /usr/share/man/man8/intltoolize.8

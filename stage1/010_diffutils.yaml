@@ -1,0 +1,64 @@
+# Package description
+description:
+  |
+    GNU Diffutils is a package of several programs related to finding differences between files.
+    Computer users often find occasion to ask how two files differ. Perhaps one file is a newer version of the other file. Or maybe the two files started out as identical copies but were changed by different people.
+# Year of creation
+creation: 1974
+# Date of last commit
+last: Fri Jan 5 09:01:59 2024 -0800
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.savannah.gnu.org/git/diffutils.git
+# Bugtracker URL
+bugtracker: |
+    Diffutils has a mailing list for bug reports: <bug-diffutils@gnu.org>. That list is integrated with the debbugs-based diffutils issue-tracker (https://debbugs.gnu.org/db/pa/ldiffutils.html).
+# Installed version
+version: 3.8
+# Installed files
+files:
+  - /usr/bin/cmp
+  - /usr/bin/diff
+  - /usr/bin/diff3
+  - /usr/bin/sdiff
+  - /usr/share/info/diffutils.info
+  - /usr/share/info/dir
+  - /usr/share/locale/bg/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ca/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/cs/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/da/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/de/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/el/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/eo/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/es/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/fi/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/fr/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ga/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/gl/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/he/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/hr/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/hu/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/id/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/it/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ja/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/lv/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ms/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/nb/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/nl/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/pl/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/pt_BR/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/pt/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ro/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/ru/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/sr/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/sv/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/tr/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/uk/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/vi/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/zh_CN/LC_MESSAGES/diffutils.mo
+  - /usr/share/locale/zh_TW/LC_MESSAGES/diffutils.mo
+  - /usr/share/man/man1/cmp.1
+  - /usr/share/man/man1/diff.1
+  - /usr/share/man/man1/diff3.1
+  - /usr/share/man/man1/sdiff.1

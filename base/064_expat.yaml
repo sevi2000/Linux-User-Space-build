@@ -1,0 +1,33 @@
+# Package description
+description:
+    |
+    Expat is a stream-oriented XML parser library written in C. Expat excels with files too large to fit RAM, and where performance and flexibility are crucial. Expat is used by many applications, libraries and hardware devices, and is packaged everywhere.
+# Year of creation
+creation: 1997
+# Date of last commit
+last: Fri Mar 1 20:15:09 2024 +0100
+# Version control system
+vcs: git
+# Repository URL
+repos: https://github.com/libexpat/libexpat
+# Bugtracker URL
+bugtracker: https://github.com/libexpat/libexpat/issues
+# Installed version
+version: 2.5.0
+# Installed files
+files:
+  - /usr/bin/xmlwf
+  - /usr/include/expat.h
+  - /usr/include/expat_config.h
+  - /usr/include/expat_external.h
+  - /usr/lib/cmake/expat-2.5.0/expat-config-version.cmake
+  - /usr/lib/cmake/expat-2.5.0/expat-config.cmake
+  - /usr/lib/cmake/expat-2.5.0/expat-noconfig.cmake
+  - /usr/lib/cmake/expat-2.5.0/expat.cmake
+  - /usr/lib/libexpat.la
+  - /usr/lib/libexpat.so
+  - /usr/lib/libexpat.so.1
+  - /usr/lib/libexpat.so.1.8.10
+  - /usr/lib/pkgconfig/expat.pc
+  - /usr/share/doc/expat-2.5.0/AUTHORS
+  - /usr/share/doc/expat-2.5.0/changelog

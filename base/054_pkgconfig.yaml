@@ -1,0 +1,22 @@
+# Package description
+description:
+    |
+    pkg-config is a computer program that defines and supports a unified interface for querying installed libraries for the purpose of compiling software that depends on them. It helps programmers and installation scripts to work without explicit knowledge of detailed library path information.
+# Year of creation
+creation: 2000
+# Date of last commit
+last: Sun Jan 24 20:42:36 2021 +0100
+# Version control system
+vcs: git
+# Repository URL
+repos: https://gitlab.freedesktop.org/pkg-config/pkg-config.git
+# Bugtracker URL
+bugtracker: https://gitlab.freedesktop.org/pkg-config/pkg-config/issues
+# Installed version
+version: 0.29.2
+# Installed files
+files:
+  - /usr/bin/pkg-config
+  - /usr/share/aclocal/pkg.m4
+  - /usr/share/doc/pkg-config-0.29.2/pkg-config-guide.html
+  - /usr/share/man/man1/pkg-config.1

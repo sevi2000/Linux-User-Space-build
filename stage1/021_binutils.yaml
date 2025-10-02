@@ -1,0 +1,136 @@
+# Package description
+description:
+  |
+    The GNU Binary Utilities, or binutils, are a set of
+    programming tools for creating and managing binary programs, object
+    files, libraries, profile data, and assembly source code.
+
+# Year of creation
+creation: 1984
+# Date of last commit
+last: Mon, 15 Jan 2024 19:08:06 +0000 (14:08 -0500)
+# Version control system
+vcs: git
+# Repository URL
+repos: git://sourceware.org/git/binutils-gdb.git
+# Bugtracker URL
+bugtracker: https://sourceware.org/bugzilla/
+# Installed version
+version: 6.9
+# Installed files
+files:
+  - /usr/arm-upc-linux-gnueabihf/bin/ar
+  - /usr/arm-upc-linux-gnueabihf/bin/as
+  - /usr/arm-upc-linux-gnueabihf/bin/ld
+  - /usr/arm-upc-linux-gnueabihf/bin/ld.bfd
+  - /usr/arm-upc-linux-gnueabihf/bin/nm
+  - /usr/arm-upc-linux-gnueabihf/bin/objcopy
+  - /usr/arm-upc-linux-gnueabihf/bin/objdump
+  - /usr/arm-upc-linux-gnueabihf/bin/ranlib
+  - /usr/arm-upc-linux-gnueabihf/bin/readelf
+  - /usr/arm-upc-linux-gnueabihf/bin/strip
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.x
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xbn
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xc
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xce
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xd
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xdc
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xdce
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xde
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xdw
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xdwe
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xe
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xn
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xr
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xs
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xsc
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xsce
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xse
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xsw
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xswe
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xu
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xw
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xwe
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.x
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xbn
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xc
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xce
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xd
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xdc
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xdce
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xde
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xdw
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xdwe
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xe
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xn
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xr
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xs
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xsc
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xsce
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xse
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xsw
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xswe
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xu
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xw
+  - /usr/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xwe
+  - /usr/bin/addr2line
+  - /usr/bin/ar
+  - /usr/bin/as
+  - /usr/bin/c++filt
+  - /usr/bin/elfedit
+  - /usr/bin/gprof
+  - /usr/bin/ld
+  - /usr/bin/ld.bfd
+  - /usr/bin/nm
+  - /usr/bin/objcopy
+  - /usr/bin/objdump
+  - /usr/bin/ranlib
+  - /usr/bin/readelf
+  - /usr/bin/size
+  - /usr/bin/strings
+  - /usr/bin/strip
+  - /usr/include/ansidecl.h
+  - /usr/include/bfd.h
+  - /usr/include/bfdlink.h
+  - /usr/include/ctf-api.h
+  - /usr/include/ctf.h
+  - /usr/include/diagnostics.h
+  - /usr/include/dis-asm.h
+  - /usr/include/plugin-api.h
+  - /usr/include/symcat.h
+  - /usr/lib/bfd-plugins/libdep.so
+  - /usr/lib/libbfd-2.39.so
+  - /usr/lib/libbfd.so
+  - /usr/lib/libctf-nobfd.so
+  - /usr/lib/libctf-nobfd.so.0
+  - /usr/lib/libctf-nobfd.so.0.0.0
+  - /usr/lib/libctf.so
+  - /usr/lib/libctf.so.0
+  - /usr/lib/libctf.so.0.0.0
+  - /usr/lib/libopcodes-2.39.so
+  - /usr/lib/libopcodes.so
+  - /usr/share/info/as.info
+  - /usr/share/info/bfd.info
+  - /usr/share/info/binutils.info
+  - /usr/share/info/ctf-spec.info
+  - /usr/share/info/dir
+  - /usr/share/info/gprof.info
+  - /usr/share/info/ld.info
+  - /usr/share/man/man1/addr2line.1
+  - /usr/share/man/man1/ar.1
+  - /usr/share/man/man1/as.1
+  - /usr/share/man/man1/c++filt.1
+  - /usr/share/man/man1/dlltool.1
+  - /usr/share/man/man1/elfedit.1
+  - /usr/share/man/man1/gprof.1
+  - /usr/share/man/man1/ld.1
+  - /usr/share/man/man1/nm.1
+  - /usr/share/man/man1/objcopy.1
+  - /usr/share/man/man1/objdump.1
+  - /usr/share/man/man1/ranlib.1
+  - /usr/share/man/man1/readelf.1
+  - /usr/share/man/man1/size.1
+  - /usr/share/man/man1/strings.1
+  - /usr/share/man/man1/strip.1
+  - /usr/share/man/man1/windmc.1
+  - /usr/share/man/man1/windres.1

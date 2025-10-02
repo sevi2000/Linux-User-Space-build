@@ -1,0 +1,43 @@
+# Package description
+description:
+    |
+    kmod is a set of tools to handle common tasks with Linux kernel modules like insert, remove, list, check properties, resolve dependencies and aliases. These tools are designed on top of libkmod, a library that is shipped with kmod. See libkmod/README for more details on this library and how to use it.
+# Year of creation
+creation: 2012
+# Date of last commit
+last: Tue Feb 20 16:10:55 2024 -0600
+# Version control system
+vcs: git
+# Repository URL
+repos: git://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git
+# Bugtracker URL
+bugtracker: https://bugzilla.kernel.org/enter_bug.cgi?product=kmod
+# Installed version
+version: 30
+# Installed files
+files:
+  - /usr/bin/kmod
+  - /usr/bin/lsmod
+  - /usr/include/libkmod.h
+  - /usr/lib/libkmod.la
+  - /usr/lib/libkmod.so
+  - /usr/lib/libkmod.so.2
+  - /usr/lib/libkmod.so.2.4.0
+  - /usr/lib/pkgconfig/libkmod.pc
+  - /usr/sbin/depmod
+  - /usr/sbin/insmod
+  - /usr/sbin/modinfo
+  - /usr/sbin/modprobe
+  - /usr/sbin/rmmod
+  - /usr/share/bash-completion/completions/kmod
+  - /usr/share/man/man5/depmod.d.5
+  - /usr/share/man/man5/modprobe.d.5
+  - /usr/share/man/man5/modules.dep.5
+  - /usr/share/man/man5/modules.dep.bin.5
+  - /usr/share/man/man8/depmod.8
+  - /usr/share/man/man8/insmod.8
+  - /usr/share/man/man8/kmod.8
+  - /usr/share/man/man8/lsmod.8
+  - /usr/share/man/man8/modinfo.8
+  - /usr/share/man/man8/modprobe.8
+  - /usr/share/man/man8/rmmod.8

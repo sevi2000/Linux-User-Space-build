@@ -1,0 +1,45 @@
+# Package description
+description:
+    |
+    Gzip is a software application used for file compression and decompression. Originally created by Jean-loup Gailly and Mark Adler, it serves as a free software replacement for the compress program used in early Unix systems. It is intended for use by the GNU project, from which the "g" in gzip is derived.
+# Year of creation
+creation: 1992
+# Date of last commit
+last: Mon Feb 19 20:41:45 2024 -0800
+# Version control system
+vcs: git
+# Repository URL
+repos: https://git.savannah.gnu.org/git/gzip.git
+# Bugtracker URL
+bugtracker: https://savannah.gnu.org/bugs/?group=gzip
+# Installed version
+version: 1.13
+# Installed files
+files:
+  - /usr/bin/gunzip
+  - /usr/bin/gzexe
+  - /usr/bin/gzip
+  - /usr/bin/uncompress
+  - /usr/bin/zcat
+  - /usr/bin/zcmp
+  - /usr/bin/zdiff
+  - /usr/bin/zegrep
+  - /usr/bin/zfgrep
+  - /usr/bin/zforce
+  - /usr/bin/zgrep
+  - /usr/bin/zless
+  - /usr/bin/zmore
+  - /usr/bin/znew
+  - /usr/share/info/dir
+  - /usr/share/info/gzip.info
+  - /usr/share/man/man1/gunzip.1
+  - /usr/share/man/man1/gzexe.1
+  - /usr/share/man/man1/gzip.1
+  - /usr/share/man/man1/zcat.1
+  - /usr/share/man/man1/zcmp.1
+  - /usr/share/man/man1/zdiff.1
+  - /usr/share/man/man1/zforce.1
+  - /usr/share/man/man1/zgrep.1
+  - /usr/share/man/man1/zless.1
+  - /usr/share/man/man1/zmore.1
+  - /usr/share/man/man1/znew.1

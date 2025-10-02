@@ -1,0 +1,11 @@
+files:
+  - /etc/group
+  - /etc/hosts
+  - /etc/mtab
+  - /etc/passwd
+  - /var/lock
+  - /var/log/btmp
+  - /var/log/faillog
+  - /var/log/lastlog
+  - /var/log/wtmp
+  - /var/run

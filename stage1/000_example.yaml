@@ -1,0 +1,53 @@
+# Package description
+description:
+  |
+    The GNU Binary Utilities, or binutils, are a set of
+    programming tools for creating and managing binary programs, object
+    files, libraries, profile data, and assembly source code.
+# Year of creation
+creation: 1984
+# Date of last commit
+last: 2025-01-01
+# Version control system
+vcs: git
+# Repository URL
+repos: git://sourceware.org/git/example.git
+# Bugtracker URL
+bugtracker: https://lists.gnu.org/archive/html/bug-sed/
+# Installed version
+version: 6.9
+# Installed files
+files:
+  - /tools/arm-upc-linux-gnueabihf/bin
+  - /tools/arm-upc-linux-gnueabihf/bin/ar
+  - /tools/arm-upc-linux-gnueabihf/bin/as
+  - /tools/arm-upc-linux-gnueabihf/bin/ld
+  - /tools/arm-upc-linux-gnueabihf/bin/ld.bfd
+  - /tools/arm-upc-linux-gnueabihf/bin/readelf
+  - /tools/arm-upc-linux-gnueabihf/bin/strip
+  - /tools/arm-upc-linux-gnueabihf/lib
+  - /tools/arm-upc-linux-gnueabihf/lib/ldscripts
+  - /tools/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.x
+  - /tools/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xbn
+  - /tools/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xc
+  - /tools/arm-upc-linux-gnueabihf/lib/ldscripts/armelf_linux_eabi.xce
+  - /tools/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xw
+  - /tools/arm-upc-linux-gnueabihf/lib/ldscripts/armelfb_linux_eabi.xwe
+  - /tools/bin
+  - /tools/bin/arm-upc-linux-gnueabihf-addr2line
+  - /tools/bin/arm-upc-linux-gnueabihf-ar
+  - /tools/bin/arm-upc-linux-gnueabihf-as
+  - /tools/bin/arm-upc-linux-gnueabihf-strip
+  - /tools/lib
+  - /tools/lib/bfd-plugins
+  - /tools/lib/bfd-plugins/libdep.so
+  - /tools/share
+  - /tools/share/info
+  - /tools/share/info/as.info
+  - /tools/share/info/gprof.info
+  - /tools/share/info/ld.info
+  - /tools/share/man
+  - /tools/share/man/man1
+  - /tools/share/man/man1/arm-upc-linux-gnueabihf-addr2line.1
+  - /tools/share/man/man1/arm-upc-linux-gnueabihf-ar.1
+  - /tools/share/man/man1/arm-upc-linux-gnueabihf-windres.1
