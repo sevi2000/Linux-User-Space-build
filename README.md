@@ -1,8 +1,8 @@
 # IFECY020 - Unix (2023-2024)
 
 Contributors:
-  - Sevi DERVISHI
-  - Adrian HEOUAIRI
+  - [Sevi DERVISHI](https://github.com/sevi2000)
+  - [Adrian HEOUAIRI](https://github.com/adrian-heouairi)
 
 Packages for `stage1`:
   1. [binutils (pass1)](./stage1/001_binutils.yaml)
