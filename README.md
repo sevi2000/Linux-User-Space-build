@@ -96,3 +96,7 @@ Packages for `base`:
   1. [procpsng](./base/087_procpsng.yaml)
   1. [utillinux](./base/088_utillinux.yaml)
   1. [e2fsprogs](./base/089_e2fsprogs.yaml)
+
+## Contributors
++ [@adrian-heouairi](https://github.com/adrian-heouairi)
++ [@sevi2000](https://github.com/sevi2000)
